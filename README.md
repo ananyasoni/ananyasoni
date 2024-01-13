@@ -1,4 +1,14 @@
-### Hi there 👋
+# About Me: 👋
+### Hi, my name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
+
+| Rank |   Languages   |
+|-----:|---------------|
+|     1|  Java         |
+|     2|  C            |
+|     3|  Python       |
+|     4|  C++          |
+|     5|  HTML         |
+|     6|  CSS          |
 
 <!--
 **ananyasoni/ananyasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
