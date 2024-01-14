@@ -1,6 +1,6 @@
 # About Me: 👩🏽‍💻
-### (नमस्ते) 
-#### Hi, my name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
+### (नमस्ते) Hi! 👋🏾
+#### My name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
 ```java
 System.out.println("Hi!")
 ```
@@ -13,7 +13,7 @@ System.out.println("Hi!")
 |     5|  HTML         |
 |     6|  CSS          |
 
-![](https://github-readme-stats.vercel.app/api?username=ananyasoni&theme=material-palenight&bg_color=00000000&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=ananyasoni&theme=material-palenight&bg_color=00000000&rank_icon=github&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasoni&size_weight=0.5&count_weight=0.5&theme=material-palenight&layout=compact&bg_color=00000000)
 
 - 📫 Reach me @: ananya99@uw.edu, ananya99@cs.washington.edu
