@@ -1,5 +1,6 @@
-# About Me: 👋
-### Hi, my name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
+# About Me: 👩🏽‍💻
+### (नमस्ते) 
+#### Hi, my name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
 ```java
 System.out.println("Hi!")
 ```
