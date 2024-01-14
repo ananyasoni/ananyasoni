@@ -12,6 +12,7 @@ System.out.println("Hi!")
 |     5|  HTML         |
 |     6|  CSS          |
 
+- 📫 Reach me @: ananya99@uw.edu, ananya99@cs.washington.edu
 <!--
 **ananyasoni/ananyasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
