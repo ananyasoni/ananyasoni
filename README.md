@@ -1,5 +1,5 @@
 # About Me: 👩🏽‍💻
-### (नमस्ते) Hi! 👋🏾
+### नमस्ते ! 👋🏾
 #### My name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
 ```java
 System.out.println("Hello World!")
