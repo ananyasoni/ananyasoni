@@ -2,7 +2,7 @@
 ### (नमस्ते) Hi! 👋🏾
 #### My name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
 ```java
-System.out.println("Hi!")
+System.out.println("Hello World!")
 ```
 | Rank |   Languages   |
 |-----:|---------------|                                                                                                                     
