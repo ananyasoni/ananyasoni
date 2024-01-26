@@ -4,6 +4,9 @@
 ```java
 System.out.println("Hello World!")
 ```
+![](https://github-readme-stats.vercel.app/api?username=ananyasoni&theme=material-palenight&bg_color=00000000&rank_icon=github&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasoni&size_weight=0.5&count_weight=0.5&theme=material-palenight&layout=compact&bg_color=00000000)  
+
 | Rank |   Languages   |
 |-----:|---------------|                                                                                                                     
 |     1|  Java         |
@@ -12,9 +15,6 @@ System.out.println("Hello World!")
 |     4|  C++          |
 |     5|  HTML         |
 |     6|  CSS          |
-
-![](https://github-readme-stats.vercel.app/api?username=ananyasoni&theme=material-palenight&bg_color=00000000&rank_icon=github&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasoni&size_weight=0.5&count_weight=0.5&theme=material-palenight&layout=compact&bg_color=00000000)
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
