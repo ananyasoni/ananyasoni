@@ -1,5 +1,5 @@
 # About Me: 👩🏽‍💻
-### नमस्ते ! 👋🏾
+### नमस्ते ! 👋🏾 [![wakatime](https://wakatime.com/badge/user/018d09cd-583e-4baa-83db-e641cdd223d7.svg)](https://wakatime.com/@018d09cd-583e-4baa-83db-e641cdd223d7)
 #### My name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
 ```java
 System.out.println("Hello World!")
