@@ -10,8 +10,8 @@ System.out.println("Hello World!")
 | Rank |   Languages   |
 |-----:|---------------|                                                                                                                     
 |     1|  Java         |
-|     2|  C            |
-|     3|  Python       |
+|     2|  Python       |
+|     3|  C            |
 |     4|  C++          |
 |     5|  HTML         |
 |     6|  CSS          |
