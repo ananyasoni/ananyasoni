@@ -1,8 +1,8 @@
 # About Me: 👩🏽‍💻
 ### नमस्ते ! 👋🏾 [![wakatime](https://wakatime.com/badge/user/018d09cd-583e-4baa-83db-e641cdd223d7.svg)](https://wakatime.com/@018d09cd-583e-4baa-83db-e641cdd223d7)
-#### My name is Ananya Shreya Soni. I'm currently a Freshman at the University of Washington studying Computer Science!
+#### My name is Ananya Shreya Soni. I'm currently a Sophomore at the University of Washington studying Computer Science!
 ```python
-print('Hello World!')
+print('Hello World!') # World's most non-i18n program. Use resource bundle.
 ```
   
 ![](https://github-readme-stats.vercel.app/api?username=ananyasoni&theme=material-palenight&bg_color=00000000&rank_icon=github&line_height=20)
@@ -12,8 +12,8 @@ print('Hello World!')
 |-----:|---------------|                                                                                                                     
 |     1|  Java         |
 |     2|  Python       |
-|     3|  C            |
-|     4|  C++          |
+|     3|  JavaScript   |
+|     4|  TypeScript   |
 |     5|  HTML         |
 |     6|  CSS          |
 
