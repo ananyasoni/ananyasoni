@@ -5,8 +5,6 @@
 print('Hello World!') # World's most non-i18n program. Use resource bundle.
 ```
   
-![](https://github-readme-stats.vercel.app/api?username=ananyasoni&theme=material-palenight&bg_color=00000000&rank_icon=github&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasoni&size_weight=0.5&count_weight=0.5&theme=material-palenight&layout=compact&bg_color=00000000)  
 
 | Rank |   Languages   |
 |-----:|---------------|                                                                                                                     
