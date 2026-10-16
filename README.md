@@ -12,10 +12,10 @@ print('Hello World!') # World's most non-i18n program. Use resource bundle.
 |     2|  Java         |
 |     3|  Go           |
 |     4|  C            |
-|     3|  TypeScript   |
-|     4|  JavaScript   |
-|     6|  C++          |
-|     7|  HTML & CSS   |
+|     5|  TypeScript   |
+|     6|  JavaScript   |
+|     7|  C++          |
+|     8|  HTML & CSS   |
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
